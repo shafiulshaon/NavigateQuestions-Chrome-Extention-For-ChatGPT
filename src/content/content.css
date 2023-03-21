@@ -1,0 +1,26 @@
+.question-number {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #007bff;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 3px 5px;
+    border-radius: 3px;
+    z-index: 1000;
+  }
+
+  .tooltip {
+    position: absolute;
+    z-index: 1001;
+    display: none;
+    background-color: #ffffff;
+    color: #333333;
+    font-size: 14px;
+    padding: 5px 10px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    white-space: nowrap;
+  }
+  
