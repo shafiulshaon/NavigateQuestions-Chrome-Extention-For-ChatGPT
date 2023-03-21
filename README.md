@@ -1,0 +1,3 @@
+# NavigateQuestions-Chrome-Extention-For-ChatPGT
+
+The NavigateQuestions Chrome extension aims to enhance user experience while interacting with ChatGPT by providing an easy way to track, review, and navigate through the questions asked during a conversation. The extension will display a question number at the top of the input box area for sending questions, show a tooltip containing the question when hovered over, and allow users to navigate directly to the question in the chat history when clicked.
